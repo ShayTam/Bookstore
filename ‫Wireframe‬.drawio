@@ -46,12 +46,12 @@
     </mxGraphModel>
   </diagram>
   <diagram name="Author" id="UJFqwT_YXKdLCWHqdBWI">
-    <mxGraphModel dx="1643" dy="829" grid="0" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="20" pageHeight="20" math="0" shadow="0">
+    <mxGraphModel dx="2054" dy="1043" grid="0" gridSize="10" guides="1" tooltips="1" connect="1" arrows="0" fold="1" page="1" pageScale="1" pageWidth="20" pageHeight="20" math="0" shadow="0">
       <root>
         <mxCell id="6iR1DmXekZEx8OT9vTTY-0" />
         <mxCell id="6iR1DmXekZEx8OT9vTTY-1" parent="6iR1DmXekZEx8OT9vTTY-0" style="locked=1;" />
         <mxCell id="6iR1DmXekZEx8OT9vTTY-2" parent="6iR1DmXekZEx8OT9vTTY-1" style="strokeWidth=1;shadow=0;dashed=0;align=center;html=1;shape=mxgraph.mockup.containers.browserWindow;rSize=0;strokeColor=#666666;strokeColor2=#008cff;strokeColor3=#c4c4c4;mainText=,;recursiveResize=0;fontStyle=1;fontSize=15;movable=1;resizable=1;rotatable=1;deletable=1;editable=1;locked=0;connectable=1;" value="" vertex="1">
-          <mxGeometry height="900" width="1440" x="148" y="108" as="geometry" />
+          <mxGeometry height="1185" width="1440" x="148" y="108" as="geometry" />
         </mxCell>
         <mxCell id="6iR1DmXekZEx8OT9vTTY-3" parent="6iR1DmXekZEx8OT9vTTY-2" style="strokeWidth=1;shadow=0;dashed=0;align=center;html=1;shape=mxgraph.mockup.containers.anchor;fontSize=17;fontColor=#666666;align=left;whiteSpace=wrap;" value="&lt;span style=&quot;text-wrap-mode: nowrap;&quot;&gt;Bookstore&lt;/span&gt;" vertex="1">
           <mxGeometry height="26" width="110" x="60" y="12" as="geometry" />
@@ -85,9 +85,270 @@
           </mxCell>
         </UserObject>
         <mxCell id="6iR1DmXekZEx8OT9vTTY-9" parent="6iR1DmXekZEx8OT9vTTY-0" value="Home" />
-        <mxCell id="6iR1DmXekZEx8OT9vTTY-10" parent="6iR1DmXekZEx8OT9vTTY-9" style="sketch=0;pointerEvents=1;shadow=0;dashed=0;html=1;strokeColor=default;fillColor=default;labelPosition=center;verticalLabelPosition=bottom;verticalAlign=top;outlineConnect=0;align=center;shape=mxgraph.office.concepts.book_journal;" value="" vertex="1">
-          <mxGeometry height="81" width="63" x="860" y="440" as="geometry" />
+        <mxCell id="FQSmSu6fAdOMa2v4Jz1f-3" parent="6iR1DmXekZEx8OT9vTTY-9" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#f5f5f5;fontColor=#333333;strokeColor=#666666;" value="" vertex="1">
+          <mxGeometry height="532" width="1439" x="149" y="760" as="geometry" />
         </mxCell>
+        <mxCell id="foyxaOtPp54yN4ag3dPW-0" parent="6iR1DmXekZEx8OT9vTTY-9" style="verticalLabelPosition=bottom;shadow=0;dashed=0;align=center;html=1;verticalAlign=top;strokeWidth=1;shape=mxgraph.mockup.containers.userFemale;strokeColor=#666666;strokeColor2=#008cff;" value="" vertex="1">
+          <mxGeometry height="267" width="268" x="354" y="424" as="geometry" />
+        </mxCell>
+        <mxCell id="93lj4DHd4qoYwbELmf2_-0" parent="6iR1DmXekZEx8OT9vTTY-9" style="text;spacingTop=-5;whiteSpace=wrap;html=1;align=left;fontSize=12;fontFamily=Helvetica;fillColor=none;strokeColor=none;" value="&lt;font style=&quot;font-size: 16px;&quot;&gt;Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum.&lt;br&gt;Sed ut perspiciatis unde omnis iste natus error&amp;nbsp;&lt;/font&gt;" vertex="1">
+          <mxGeometry height="251" width="371" x="725" y="474" as="geometry" />
+        </mxCell>
+        <mxCell id="OeYgrsvLd1TxEsJ7JiqL-0" parent="6iR1DmXekZEx8OT9vTTY-9" style="text;html=1;whiteSpace=wrap;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;rounded=0;fontSize=25;" value="&lt;font&gt;Author&lt;/font&gt;" vertex="1">
+          <mxGeometry height="30" width="173" x="808" y="424" as="geometry" />
+        </mxCell>
+        <mxCell id="yjQ1bxPRlnNiaGtxvBy5-0" parent="6iR1DmXekZEx8OT9vTTY-9" style="strokeWidth=1;shadow=0;dashed=0;align=center;html=1;shape=mxgraph.mockup.navigation.pagination;linkText=;fontSize=17;fontColor=#0000ff;fontStyle=4;" value="&lt;&lt; Prev 1 2 3 4 5 6 7 8 9 10 Next &gt;&gt;" vertex="1">
+          <mxGeometry height="30" width="350" x="715" y="1212" as="geometry" />
+        </mxCell>
+        <mxCell id="y0qsWhbyxca5ybC963k2-4" connectable="0" parent="6iR1DmXekZEx8OT9vTTY-9" style="group" value="" vertex="1">
+          <mxGeometry height="445.75" width="1178.6" x="311" y="763" as="geometry" />
+        </mxCell>
+        <mxCell id="gfR0pqgwWbkZbG0ivpj6-5" connectable="0" parent="y0qsWhbyxca5ybC963k2-4" style="group" value="" vertex="1">
+          <mxGeometry height="247.5" width="1178.6" y="198.25" as="geometry" />
+        </mxCell>
+        <mxCell id="gfR0pqgwWbkZbG0ivpj6-6" connectable="0" parent="gfR0pqgwWbkZbG0ivpj6-5" style="group" value="" vertex="1">
+          <mxGeometry height="247" width="243" x="467.20000000000005" y="0.5" as="geometry" />
+        </mxCell>
+        <mxCell id="gfR0pqgwWbkZbG0ivpj6-7" parent="gfR0pqgwWbkZbG0ivpj6-6" style="rounded=0;whiteSpace=wrap;html=1;strokeColor=none;fillColor=none;" value="" vertex="1">
+          <mxGeometry height="214" width="233.6" as="geometry" />
+        </mxCell>
+        <mxCell id="gfR0pqgwWbkZbG0ivpj6-8" connectable="0" parent="gfR0pqgwWbkZbG0ivpj6-6" style="group" value="" vertex="1">
+          <mxGeometry height="194" width="169" x="74" y="53" as="geometry" />
+        </mxCell>
+        <UserObject label="" link="data:page/id,CTPLad1RR-hTDBxj3Rw-" id="gfR0pqgwWbkZbG0ivpj6-9">
+          <mxCell parent="gfR0pqgwWbkZbG0ivpj6-8" style="sketch=0;pointerEvents=1;shadow=0;dashed=0;html=1;strokeColor=default;fillColor=default;labelPosition=center;verticalLabelPosition=bottom;verticalAlign=top;outlineConnect=0;align=center;shape=mxgraph.office.concepts.book_journal;" vertex="1">
+            <mxGeometry height="81" width="63" x="7.5" as="geometry" />
+          </mxCell>
+        </UserObject>
+        <UserObject label="Author" link="data:page/id,UJFqwT_YXKdLCWHqdBWI" id="gfR0pqgwWbkZbG0ivpj6-10">
+          <mxCell parent="gfR0pqgwWbkZbG0ivpj6-8" style="text;html=1;whiteSpace=wrap;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;rounded=0;" vertex="1">
+            <mxGeometry height="30" width="60" x="12" y="106" as="geometry" />
+          </mxCell>
+        </UserObject>
+        <UserObject label="&lt;font style=&quot;font-size: 14px;&quot;&gt;Book Title&lt;/font&gt;" link="data:page/id,CTPLad1RR-hTDBxj3Rw-" id="gfR0pqgwWbkZbG0ivpj6-11">
+          <mxCell parent="gfR0pqgwWbkZbG0ivpj6-8" style="text;html=1;whiteSpace=wrap;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;rounded=0;" vertex="1">
+            <mxGeometry height="30" width="84" y="86" as="geometry" />
+          </mxCell>
+        </UserObject>
+        <mxCell id="gfR0pqgwWbkZbG0ivpj6-12" connectable="0" parent="gfR0pqgwWbkZbG0ivpj6-5" style="group" value="" vertex="1">
+          <mxGeometry height="247" width="244" x="934.5999999999999" y="0.5" as="geometry" />
+        </mxCell>
+        <mxCell id="gfR0pqgwWbkZbG0ivpj6-13" parent="gfR0pqgwWbkZbG0ivpj6-12" style="rounded=0;whiteSpace=wrap;html=1;strokeColor=none;fillColor=none;" value="" vertex="1">
+          <mxGeometry height="214" width="233.6" as="geometry" />
+        </mxCell>
+        <mxCell id="gfR0pqgwWbkZbG0ivpj6-14" connectable="0" parent="gfR0pqgwWbkZbG0ivpj6-12" style="group" value="" vertex="1">
+          <mxGeometry height="194" width="169" x="75" y="53" as="geometry" />
+        </mxCell>
+        <UserObject label="" link="data:page/id,CTPLad1RR-hTDBxj3Rw-" id="gfR0pqgwWbkZbG0ivpj6-15">
+          <mxCell parent="gfR0pqgwWbkZbG0ivpj6-14" style="sketch=0;pointerEvents=1;shadow=0;dashed=0;html=1;strokeColor=default;fillColor=default;labelPosition=center;verticalLabelPosition=bottom;verticalAlign=top;outlineConnect=0;align=center;shape=mxgraph.office.concepts.book_journal;" vertex="1">
+            <mxGeometry height="81" width="63" x="7.5" as="geometry" />
+          </mxCell>
+        </UserObject>
+        <UserObject label="Author" link="data:page/id,UJFqwT_YXKdLCWHqdBWI" id="gfR0pqgwWbkZbG0ivpj6-16">
+          <mxCell parent="gfR0pqgwWbkZbG0ivpj6-14" style="text;html=1;whiteSpace=wrap;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;rounded=0;" vertex="1">
+            <mxGeometry height="30" width="60" x="12" y="106" as="geometry" />
+          </mxCell>
+        </UserObject>
+        <UserObject label="&lt;font style=&quot;font-size: 14px;&quot;&gt;Book Title&lt;/font&gt;" link="data:page/id,CTPLad1RR-hTDBxj3Rw-" id="gfR0pqgwWbkZbG0ivpj6-17">
+          <mxCell parent="gfR0pqgwWbkZbG0ivpj6-14" style="text;html=1;whiteSpace=wrap;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;rounded=0;" vertex="1">
+            <mxGeometry height="30" width="84" y="86" as="geometry" />
+          </mxCell>
+        </UserObject>
+        <mxCell id="gfR0pqgwWbkZbG0ivpj6-18" connectable="0" parent="gfR0pqgwWbkZbG0ivpj6-5" style="group;fillColor=none;" value="" vertex="1">
+          <mxGeometry height="247" width="243" as="geometry" />
+        </mxCell>
+        <mxCell id="gfR0pqgwWbkZbG0ivpj6-19" parent="gfR0pqgwWbkZbG0ivpj6-18" style="rounded=0;whiteSpace=wrap;html=1;strokeColor=none;fillColor=none;" value="" vertex="1">
+          <mxGeometry height="214" width="233.6" as="geometry" />
+        </mxCell>
+        <mxCell id="gfR0pqgwWbkZbG0ivpj6-20" connectable="0" parent="gfR0pqgwWbkZbG0ivpj6-18" style="group" value="" vertex="1">
+          <mxGeometry height="194" width="169" x="74" y="53" as="geometry" />
+        </mxCell>
+        <UserObject label="" link="data:page/id,CTPLad1RR-hTDBxj3Rw-" id="gfR0pqgwWbkZbG0ivpj6-21">
+          <mxCell parent="gfR0pqgwWbkZbG0ivpj6-20" style="sketch=0;pointerEvents=1;shadow=0;dashed=0;html=1;strokeColor=default;fillColor=default;labelPosition=center;verticalLabelPosition=bottom;verticalAlign=top;outlineConnect=0;align=center;shape=mxgraph.office.concepts.book_journal;" vertex="1">
+            <mxGeometry height="81" width="63" x="7.5" as="geometry" />
+          </mxCell>
+        </UserObject>
+        <UserObject label="Author" link="data:page/id,UJFqwT_YXKdLCWHqdBWI" id="gfR0pqgwWbkZbG0ivpj6-22">
+          <mxCell parent="gfR0pqgwWbkZbG0ivpj6-20" style="text;html=1;whiteSpace=wrap;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;rounded=0;" vertex="1">
+            <mxGeometry height="30" width="60" x="12" y="106" as="geometry" />
+          </mxCell>
+        </UserObject>
+        <UserObject label="&lt;font style=&quot;font-size: 14px;&quot;&gt;Book Title&lt;/font&gt;" link="data:page/id,CTPLad1RR-hTDBxj3Rw-" id="gfR0pqgwWbkZbG0ivpj6-23">
+          <mxCell parent="gfR0pqgwWbkZbG0ivpj6-20" style="text;html=1;whiteSpace=wrap;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;rounded=0;" vertex="1">
+            <mxGeometry height="30" width="84" y="86" as="geometry" />
+          </mxCell>
+        </UserObject>
+        <mxCell id="gfR0pqgwWbkZbG0ivpj6-24" connectable="0" parent="gfR0pqgwWbkZbG0ivpj6-5" style="group" value="" vertex="1">
+          <mxGeometry height="214" width="233.60000000000002" x="234.60000000000002" y="0.5" as="geometry" />
+        </mxCell>
+        <mxCell id="gfR0pqgwWbkZbG0ivpj6-25" parent="gfR0pqgwWbkZbG0ivpj6-24" style="rounded=0;whiteSpace=wrap;html=1;strokeColor=none;fillColor=none;" value="" vertex="1">
+          <mxGeometry height="214" width="233.6" as="geometry" />
+        </mxCell>
+        <mxCell id="gfR0pqgwWbkZbG0ivpj6-26" connectable="0" parent="gfR0pqgwWbkZbG0ivpj6-24" style="group" value="" vertex="1">
+          <mxGeometry height="136" width="84" x="74" y="53" as="geometry" />
+        </mxCell>
+        <UserObject label="" link="data:page/id,CTPLad1RR-hTDBxj3Rw-" id="gfR0pqgwWbkZbG0ivpj6-27">
+          <mxCell parent="gfR0pqgwWbkZbG0ivpj6-26" style="sketch=0;pointerEvents=1;shadow=0;dashed=0;html=1;strokeColor=default;fillColor=default;labelPosition=center;verticalLabelPosition=bottom;verticalAlign=top;outlineConnect=0;align=center;shape=mxgraph.office.concepts.book_journal;" vertex="1">
+            <mxGeometry height="81" width="63" x="7.5" as="geometry" />
+          </mxCell>
+        </UserObject>
+        <UserObject label="Author" link="data:page/id,UJFqwT_YXKdLCWHqdBWI" id="gfR0pqgwWbkZbG0ivpj6-28">
+          <mxCell parent="gfR0pqgwWbkZbG0ivpj6-26" style="text;html=1;whiteSpace=wrap;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;rounded=0;" vertex="1">
+            <mxGeometry height="30" width="60" x="12" y="106" as="geometry" />
+          </mxCell>
+        </UserObject>
+        <UserObject label="&lt;font style=&quot;font-size: 14px;&quot;&gt;Book Title&lt;/font&gt;" link="data:page/id,CTPLad1RR-hTDBxj3Rw-" id="gfR0pqgwWbkZbG0ivpj6-29">
+          <mxCell parent="gfR0pqgwWbkZbG0ivpj6-26" style="text;html=1;whiteSpace=wrap;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;rounded=0;" vertex="1">
+            <mxGeometry height="30" width="84" y="86" as="geometry" />
+          </mxCell>
+        </UserObject>
+        <mxCell id="gfR0pqgwWbkZbG0ivpj6-30" connectable="0" parent="gfR0pqgwWbkZbG0ivpj6-5" style="group" value="" vertex="1">
+          <mxGeometry height="214" width="233.5999999999999" x="701" y="0.5" as="geometry" />
+        </mxCell>
+        <mxCell id="gfR0pqgwWbkZbG0ivpj6-31" parent="gfR0pqgwWbkZbG0ivpj6-30" style="rounded=0;whiteSpace=wrap;html=1;strokeColor=none;fillColor=none;" value="" vertex="1">
+          <mxGeometry height="214" width="233.6" as="geometry" />
+        </mxCell>
+        <mxCell id="gfR0pqgwWbkZbG0ivpj6-32" connectable="0" parent="gfR0pqgwWbkZbG0ivpj6-30" style="group" value="" vertex="1">
+          <mxGeometry height="136" width="84" x="75" y="53" as="geometry" />
+        </mxCell>
+        <UserObject label="" link="data:page/id,CTPLad1RR-hTDBxj3Rw-" id="gfR0pqgwWbkZbG0ivpj6-33">
+          <mxCell parent="gfR0pqgwWbkZbG0ivpj6-32" style="sketch=0;pointerEvents=1;shadow=0;dashed=0;html=1;strokeColor=default;fillColor=default;labelPosition=center;verticalLabelPosition=bottom;verticalAlign=top;outlineConnect=0;align=center;shape=mxgraph.office.concepts.book_journal;" vertex="1">
+            <mxGeometry height="81" width="63" x="7.5" as="geometry" />
+          </mxCell>
+        </UserObject>
+        <UserObject label="Author" link="data:page/id,UJFqwT_YXKdLCWHqdBWI" id="gfR0pqgwWbkZbG0ivpj6-34">
+          <mxCell parent="gfR0pqgwWbkZbG0ivpj6-32" style="text;html=1;whiteSpace=wrap;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;rounded=0;" vertex="1">
+            <mxGeometry height="30" width="60" x="12" y="106" as="geometry" />
+          </mxCell>
+        </UserObject>
+        <UserObject label="&lt;font style=&quot;font-size: 14px;&quot;&gt;Book Title&lt;/font&gt;" link="data:page/id,CTPLad1RR-hTDBxj3Rw-" id="gfR0pqgwWbkZbG0ivpj6-35">
+          <mxCell parent="gfR0pqgwWbkZbG0ivpj6-32" style="text;html=1;whiteSpace=wrap;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;rounded=0;" vertex="1">
+            <mxGeometry height="30" width="84" y="86" as="geometry" />
+          </mxCell>
+        </UserObject>
+        <mxCell id="y0qsWhbyxca5ybC963k2-3" connectable="0" parent="y0qsWhbyxca5ybC963k2-4" style="group" value="" vertex="1">
+          <mxGeometry height="247.5" width="1178.6" as="geometry" />
+        </mxCell>
+        <mxCell id="f10IpgjMbE1JZmiE8QOr-13" connectable="0" parent="y0qsWhbyxca5ybC963k2-3" style="group" value="" vertex="1">
+          <mxGeometry height="247" width="244" x="934.5999999999999" y="0.5" as="geometry" />
+        </mxCell>
+        <mxCell id="f10IpgjMbE1JZmiE8QOr-14" parent="f10IpgjMbE1JZmiE8QOr-13" style="rounded=0;whiteSpace=wrap;html=1;strokeColor=none;fillColor=none;" value="" vertex="1">
+          <mxGeometry height="214" width="233.6" as="geometry" />
+        </mxCell>
+        <mxCell id="f10IpgjMbE1JZmiE8QOr-15" connectable="0" parent="f10IpgjMbE1JZmiE8QOr-13" style="group" value="" vertex="1">
+          <mxGeometry height="194" width="169" x="75" y="53" as="geometry" />
+        </mxCell>
+        <UserObject label="" link="data:page/id,CTPLad1RR-hTDBxj3Rw-" id="f10IpgjMbE1JZmiE8QOr-16">
+          <mxCell parent="f10IpgjMbE1JZmiE8QOr-15" style="sketch=0;pointerEvents=1;shadow=0;dashed=0;html=1;strokeColor=default;fillColor=default;labelPosition=center;verticalLabelPosition=bottom;verticalAlign=top;outlineConnect=0;align=center;shape=mxgraph.office.concepts.book_journal;" vertex="1">
+            <mxGeometry height="81" width="63" x="7.5" as="geometry" />
+          </mxCell>
+        </UserObject>
+        <UserObject label="Author" link="data:page/id,UJFqwT_YXKdLCWHqdBWI" id="f10IpgjMbE1JZmiE8QOr-17">
+          <mxCell parent="f10IpgjMbE1JZmiE8QOr-15" style="text;html=1;whiteSpace=wrap;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;rounded=0;" vertex="1">
+            <mxGeometry height="30" width="60" x="12" y="106" as="geometry" />
+          </mxCell>
+        </UserObject>
+        <UserObject label="&lt;font style=&quot;font-size: 14px;&quot;&gt;Book Title&lt;/font&gt;" link="data:page/id,CTPLad1RR-hTDBxj3Rw-" id="f10IpgjMbE1JZmiE8QOr-18">
+          <mxCell parent="f10IpgjMbE1JZmiE8QOr-15" style="text;html=1;whiteSpace=wrap;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;rounded=0;" vertex="1">
+            <mxGeometry height="30" width="84" y="86" as="geometry" />
+          </mxCell>
+        </UserObject>
+        <mxCell id="f10IpgjMbE1JZmiE8QOr-19" connectable="0" parent="y0qsWhbyxca5ybC963k2-3" style="group;fillColor=none;" value="" vertex="1">
+          <mxGeometry height="247" width="243" as="geometry" />
+        </mxCell>
+        <mxCell id="f10IpgjMbE1JZmiE8QOr-20" parent="f10IpgjMbE1JZmiE8QOr-19" style="rounded=0;whiteSpace=wrap;html=1;strokeColor=none;fillColor=none;" value="" vertex="1">
+          <mxGeometry height="214" width="233.6" as="geometry" />
+        </mxCell>
+        <mxCell id="f10IpgjMbE1JZmiE8QOr-21" connectable="0" parent="f10IpgjMbE1JZmiE8QOr-19" style="group" value="" vertex="1">
+          <mxGeometry height="194" width="169" x="74" y="53" as="geometry" />
+        </mxCell>
+        <UserObject label="" link="data:page/id,CTPLad1RR-hTDBxj3Rw-" id="f10IpgjMbE1JZmiE8QOr-22">
+          <mxCell parent="f10IpgjMbE1JZmiE8QOr-21" style="sketch=0;pointerEvents=1;shadow=0;dashed=0;html=1;strokeColor=default;fillColor=default;labelPosition=center;verticalLabelPosition=bottom;verticalAlign=top;outlineConnect=0;align=center;shape=mxgraph.office.concepts.book_journal;" vertex="1">
+            <mxGeometry height="81" width="63" x="7.5" as="geometry" />
+          </mxCell>
+        </UserObject>
+        <UserObject label="Author" link="data:page/id,UJFqwT_YXKdLCWHqdBWI" id="f10IpgjMbE1JZmiE8QOr-23">
+          <mxCell parent="f10IpgjMbE1JZmiE8QOr-21" style="text;html=1;whiteSpace=wrap;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;rounded=0;" vertex="1">
+            <mxGeometry height="30" width="60" x="12" y="106" as="geometry" />
+          </mxCell>
+        </UserObject>
+        <UserObject label="&lt;font style=&quot;font-size: 14px;&quot;&gt;Book Title&lt;/font&gt;" link="data:page/id,CTPLad1RR-hTDBxj3Rw-" id="f10IpgjMbE1JZmiE8QOr-24">
+          <mxCell parent="f10IpgjMbE1JZmiE8QOr-21" style="text;html=1;whiteSpace=wrap;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;rounded=0;" vertex="1">
+            <mxGeometry height="30" width="84" y="86" as="geometry" />
+          </mxCell>
+        </UserObject>
+        <mxCell id="gfR0pqgwWbkZbG0ivpj6-1" connectable="0" parent="y0qsWhbyxca5ybC963k2-3" style="group" value="" vertex="1">
+          <mxGeometry height="214" width="233.60000000000002" x="234.60000000000002" y="0.5" as="geometry" />
+        </mxCell>
+        <mxCell id="f10IpgjMbE1JZmiE8QOr-26" parent="gfR0pqgwWbkZbG0ivpj6-1" style="rounded=0;whiteSpace=wrap;html=1;strokeColor=none;fillColor=none;" value="" vertex="1">
+          <mxGeometry height="214" width="233.6" as="geometry" />
+        </mxCell>
+        <mxCell id="gfR0pqgwWbkZbG0ivpj6-0" connectable="0" parent="gfR0pqgwWbkZbG0ivpj6-1" style="group" value="" vertex="1">
+          <mxGeometry height="136" width="84" x="74" y="53" as="geometry" />
+        </mxCell>
+        <UserObject label="" link="data:page/id,CTPLad1RR-hTDBxj3Rw-" id="f10IpgjMbE1JZmiE8QOr-28">
+          <mxCell parent="gfR0pqgwWbkZbG0ivpj6-0" style="sketch=0;pointerEvents=1;shadow=0;dashed=0;html=1;strokeColor=default;fillColor=default;labelPosition=center;verticalLabelPosition=bottom;verticalAlign=top;outlineConnect=0;align=center;shape=mxgraph.office.concepts.book_journal;" vertex="1">
+            <mxGeometry height="81" width="63" x="7.5" as="geometry" />
+          </mxCell>
+        </UserObject>
+        <UserObject label="Author" link="data:page/id,UJFqwT_YXKdLCWHqdBWI" id="f10IpgjMbE1JZmiE8QOr-29">
+          <mxCell parent="gfR0pqgwWbkZbG0ivpj6-0" style="text;html=1;whiteSpace=wrap;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;rounded=0;" vertex="1">
+            <mxGeometry height="30" width="60" x="12" y="106" as="geometry" />
+          </mxCell>
+        </UserObject>
+        <UserObject label="&lt;font style=&quot;font-size: 14px;&quot;&gt;Book Title&lt;/font&gt;" link="data:page/id,CTPLad1RR-hTDBxj3Rw-" id="f10IpgjMbE1JZmiE8QOr-30">
+          <mxCell parent="gfR0pqgwWbkZbG0ivpj6-0" style="text;html=1;whiteSpace=wrap;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;rounded=0;" vertex="1">
+            <mxGeometry height="30" width="84" y="86" as="geometry" />
+          </mxCell>
+        </UserObject>
+        <mxCell id="gfR0pqgwWbkZbG0ivpj6-3" connectable="0" parent="y0qsWhbyxca5ybC963k2-3" style="group" value="" vertex="1">
+          <mxGeometry height="214" width="233.5999999999999" x="701" y="0.5" as="geometry" />
+        </mxCell>
+        <mxCell id="f10IpgjMbE1JZmiE8QOr-8" parent="gfR0pqgwWbkZbG0ivpj6-3" style="rounded=0;whiteSpace=wrap;html=1;strokeColor=none;fillColor=none;" value="" vertex="1">
+          <mxGeometry height="214" width="233.6" as="geometry" />
+        </mxCell>
+        <mxCell id="gfR0pqgwWbkZbG0ivpj6-2" connectable="0" parent="gfR0pqgwWbkZbG0ivpj6-3" style="group" value="" vertex="1">
+          <mxGeometry height="136" width="84" x="75" y="53" as="geometry" />
+        </mxCell>
+        <UserObject label="" link="data:page/id,CTPLad1RR-hTDBxj3Rw-" id="f10IpgjMbE1JZmiE8QOr-10">
+          <mxCell parent="gfR0pqgwWbkZbG0ivpj6-2" style="sketch=0;pointerEvents=1;shadow=0;dashed=0;html=1;strokeColor=default;fillColor=default;labelPosition=center;verticalLabelPosition=bottom;verticalAlign=top;outlineConnect=0;align=center;shape=mxgraph.office.concepts.book_journal;" vertex="1">
+            <mxGeometry height="81" width="63" x="7.5" as="geometry" />
+          </mxCell>
+        </UserObject>
+        <UserObject label="Author" link="data:page/id,UJFqwT_YXKdLCWHqdBWI" id="f10IpgjMbE1JZmiE8QOr-11">
+          <mxCell parent="gfR0pqgwWbkZbG0ivpj6-2" style="text;html=1;whiteSpace=wrap;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;rounded=0;" vertex="1">
+            <mxGeometry height="30" width="60" x="12" y="106" as="geometry" />
+          </mxCell>
+        </UserObject>
+        <UserObject label="&lt;font style=&quot;font-size: 14px;&quot;&gt;Book Title&lt;/font&gt;" link="data:page/id,CTPLad1RR-hTDBxj3Rw-" id="f10IpgjMbE1JZmiE8QOr-12">
+          <mxCell parent="gfR0pqgwWbkZbG0ivpj6-2" style="text;html=1;whiteSpace=wrap;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;rounded=0;" vertex="1">
+            <mxGeometry height="30" width="84" y="86" as="geometry" />
+          </mxCell>
+        </UserObject>
+        <mxCell id="y0qsWhbyxca5ybC963k2-2" connectable="0" parent="y0qsWhbyxca5ybC963k2-3" style="group" value="" vertex="1">
+          <mxGeometry height="214" width="233.60000000000002" x="467.20000000000005" y="0.5" as="geometry" />
+        </mxCell>
+        <mxCell id="f10IpgjMbE1JZmiE8QOr-2" parent="y0qsWhbyxca5ybC963k2-2" style="rounded=0;whiteSpace=wrap;html=1;strokeColor=none;fillColor=none;" value="" vertex="1">
+          <mxGeometry height="214" width="233.6" as="geometry" />
+        </mxCell>
+        <mxCell id="y0qsWhbyxca5ybC963k2-1" connectable="0" parent="y0qsWhbyxca5ybC963k2-2" style="group" value="" vertex="1">
+          <mxGeometry height="136" width="84" x="74" y="53" as="geometry" />
+        </mxCell>
+        <UserObject label="" link="data:page/id,CTPLad1RR-hTDBxj3Rw-" id="f10IpgjMbE1JZmiE8QOr-4">
+          <mxCell parent="y0qsWhbyxca5ybC963k2-1" style="sketch=0;pointerEvents=1;shadow=0;dashed=0;html=1;strokeColor=default;fillColor=default;labelPosition=center;verticalLabelPosition=bottom;verticalAlign=top;outlineConnect=0;align=center;shape=mxgraph.office.concepts.book_journal;" vertex="1">
+            <mxGeometry height="81" width="63" x="7.5" as="geometry" />
+          </mxCell>
+        </UserObject>
+        <UserObject label="Author" link="data:page/id,UJFqwT_YXKdLCWHqdBWI" id="f10IpgjMbE1JZmiE8QOr-5">
+          <mxCell parent="y0qsWhbyxca5ybC963k2-1" style="text;html=1;whiteSpace=wrap;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;rounded=0;" vertex="1">
+            <mxGeometry height="30" width="60" x="12" y="106" as="geometry" />
+          </mxCell>
+        </UserObject>
+        <UserObject label="&lt;font style=&quot;font-size: 14px;&quot;&gt;Book Title&lt;/font&gt;" link="data:page/id,CTPLad1RR-hTDBxj3Rw-" id="f10IpgjMbE1JZmiE8QOr-6">
+          <mxCell parent="y0qsWhbyxca5ybC963k2-1" style="text;html=1;whiteSpace=wrap;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;rounded=0;" vertex="1">
+            <mxGeometry height="30" width="84" y="86" as="geometry" />
+          </mxCell>
+        </UserObject>
       </root>
     </mxGraphModel>
   </diagram>
@@ -791,9 +1052,11 @@
           </mxCell>
         </UserObject>
         <mxCell id="w96MO1lf-ERjK7osHjDw-0" parent="bqhokPlYZ_OeN_bXdIpg-0" value="Account" />
-        <mxCell id="naQSF8pmt-WnrvQtwRrx-0" parent="w96MO1lf-ERjK7osHjDw-0" style="verticalLabelPosition=bottom;shadow=0;dashed=0;align=center;html=1;verticalAlign=top;strokeWidth=1;shape=mxgraph.mockup.containers.userMale;strokeColor=#666666;strokeColor2=#008cff;" value="" vertex="1">
-          <mxGeometry height="100" width="100" x="476" y="410" as="geometry" />
-        </mxCell>
+        <UserObject label="" id="G9nwzX5fyzNrNh53PEFn-0">
+          <mxCell parent="w96MO1lf-ERjK7osHjDw-0" style="html=1;verticalLabelPosition=bottom;align=center;labelBackgroundColor=#ffffff;verticalAlign=top;strokeWidth=1;strokeColor=light-dark(#000000,#EDEDED);shadow=0;dashed=0;shape=mxgraph.ios7.icons.user;" vertex="1">
+            <mxGeometry height="43" width="46" x="865" y="549" as="geometry" />
+          </mxCell>
+        </UserObject>
       </root>
     </mxGraphModel>
   </diagram>
