@@ -6366,6 +6366,33 @@
         <mxCell id="GMgNbpgefTx8MiW2xHYB-2" parent="GMgNbpgefTx8MiW2xHYB-0" style="text;html=1;whiteSpace=wrap;align=center;verticalAlign=middle;rounded=0;fillColor=none;strokeColor=none;fontColor=#FFFFFF;fontSize=21;fontStyle=1" value="Delete" vertex="1">
           <mxGeometry height="30" width="79" x="59.5" y="14" as="geometry" />
         </mxCell>
+        <mxCell id="Hsx72ry8ZHZXOH8oxDAK-0" connectable="0" parent="ibu5M6Ust8VuMfxPxgKK-52" style="group" value="" vertex="1">
+          <mxGeometry height="44" width="353.85" x="724" y="627" as="geometry" />
+        </mxCell>
+        <mxCell id="BypxGvLLMYl3SA6Wmuyw-0" parent="Hsx72ry8ZHZXOH8oxDAK-0" style="shape=image;html=1;verticalAlign=top;verticalLabelPosition=bottom;labelBackgroundColor=#ffffff;imageAspect=0;aspect=fixed;image=https://icons.diagrams.net/icon-cache1/Ionicons_Fill_Vol_2-2187/warning-514.svg" value="" vertex="1">
+          <mxGeometry height="44" width="44" as="geometry" />
+        </mxCell>
+        <mxCell id="InOssUoUnpINjyUfDnXJ-0" parent="Hsx72ry8ZHZXOH8oxDAK-0" style="text;html=1;whiteSpace=wrap;strokeColor=none;fillColor=none;align=left;verticalAlign=middle;rounded=0;fontSize=18;fontStyle=1" value="&lt;font style=&quot;font-size: 20px;&quot;&gt;Permanent Account Deletion&lt;/font&gt;" vertex="1">
+          <mxGeometry height="38" width="305" x="48.85000000000002" y="3" as="geometry" />
+        </mxCell>
+        <mxCell id="iWJSDG7QtAJjGytDXPem-0" parent="ibu5M6Ust8VuMfxPxgKK-52" style="text;html=1;whiteSpace=wrap;strokeColor=none;fillColor=none;align=left;verticalAlign=top;rounded=0;fontSize=18;fontStyle=1" value="&lt;ul&gt;&lt;li&gt;&lt;span style=&quot;font-size: 17px; font-weight: 400;&quot;&gt;This action is permanent and cannot be undone.&lt;/span&gt;&lt;/li&gt;&lt;li&gt;&lt;span style=&quot;font-size: 17px; font-weight: 400;&quot;&gt;All orders and personal data will be permanently erased.&lt;/span&gt;&lt;/li&gt;&lt;li&gt;&lt;span style=&quot;font-size: 17px; font-weight: 400;&quot;&gt;Your reviews will be deleted or anonymized.&lt;/span&gt;&lt;/li&gt;&lt;li&gt;&lt;span style=&quot;font-size: 17px; font-weight: 400;&quot;&gt;Any pending orders or active shipments will still be delivered, but you will lose the ability to track them or initiate online returns.&lt;/span&gt;&lt;/li&gt;&lt;/ul&gt;" vertex="1">
+          <mxGeometry height="168" width="583" x="750" y="657" as="geometry" />
+        </mxCell>
+        <mxCell id="AYY7XU2fDkGnSRiFfZ1t-0" connectable="0" parent="ibu5M6Ust8VuMfxPxgKK-52" style="group" value="" vertex="1">
+          <mxGeometry height="58" width="310" x="773" y="840" as="geometry" />
+        </mxCell>
+        <mxCell id="AYY7XU2fDkGnSRiFfZ1t-1" connectable="0" parent="AYY7XU2fDkGnSRiFfZ1t-0" style="group" value="" vertex="1">
+          <mxGeometry height="58" width="310" as="geometry" />
+        </mxCell>
+        <mxCell id="AYY7XU2fDkGnSRiFfZ1t-2" parent="AYY7XU2fDkGnSRiFfZ1t-1" style="text;html=1;whiteSpace=wrap;strokeColor=none;fillColor=none;align=left;verticalAlign=middle;rounded=0;fontSize=13;fontStyle=1" value="&lt;font style=&quot;font-size: 17px;&quot;&gt;Enter password to confirm deletion&lt;/font&gt;" vertex="1">
+          <mxGeometry height="23" width="310" as="geometry" />
+        </mxCell>
+        <mxCell id="AYY7XU2fDkGnSRiFfZ1t-3" parent="AYY7XU2fDkGnSRiFfZ1t-1" style="strokeWidth=1;shadow=0;dashed=0;align=center;html=1;shape=mxgraph.mockup.text.textBox;fontColor=#666666;align=left;fontSize=17;spacingLeft=4;spacingTop=-3;whiteSpace=wrap;strokeColor=#666666;mainText=" value="**************" vertex="1">
+          <mxGeometry height="30" width="302" x="1" y="28" as="geometry" />
+        </mxCell>
+        <mxCell id="AYY7XU2fDkGnSRiFfZ1t-4" parent="AYY7XU2fDkGnSRiFfZ1t-0" style="shape=image;html=1;verticalAlign=top;verticalLabelPosition=bottom;labelBackgroundColor=#dae8fc;imageAspect=0;aspect=fixed;image=https://icons.diagrams.net/icon-cache1/iOS_11_Glyphs-2907/visible-1445.svg;imageBackground=none;imageBorder=none;labelBorderColor=#6c8ebf;fontColor=default;" value="" vertex="1">
+          <mxGeometry height="24.5" width="24.5" x="272" y="31" as="geometry" />
+        </mxCell>
       </root>
     </mxGraphModel>
   </diagram>
