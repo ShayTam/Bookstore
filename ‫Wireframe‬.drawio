@@ -5637,7 +5637,7 @@
     </mxGraphModel>
   </diagram>
   <diagram name="Account - Security" id="2pf3FfL4M6TT65q81KZ3">
-    <mxGraphModel dx="2149" dy="1222" grid="0" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="20" pageHeight="20" math="0" shadow="0">
+    <mxGraphModel dx="756" dy="417" grid="0" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="20" pageHeight="20" math="0" shadow="0">
       <root>
         <mxCell id="Ig6Gu1eGX13lQ4K1nJOt-0" />
         <mxCell id="Ig6Gu1eGX13lQ4K1nJOt-1" parent="Ig6Gu1eGX13lQ4K1nJOt-0" style="locked=1;" />
@@ -5921,7 +5921,7 @@
     </mxGraphModel>
   </diagram>
   <diagram name="Account - Preferences" id="QQm1fBHtluI219JbaXcR">
-    <mxGraphModel dx="1577" dy="892" grid="0" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="20" pageHeight="20" math="0" shadow="0">
+    <mxGraphModel dx="1920" dy="1090" grid="0" gridSize="10" guides="1" tooltips="1" connect="1" arrows="0" fold="1" page="1" pageScale="1" pageWidth="20" pageHeight="20" math="0" shadow="0">
       <root>
         <mxCell id="Rm-zZOedulSsf_lplURJ-0" />
         <mxCell id="Rm-zZOedulSsf_lplURJ-1" parent="Rm-zZOedulSsf_lplURJ-0" style="locked=1;" />
@@ -6127,6 +6127,33 @@
         </mxCell>
         <mxCell id="MJZBRQUy2-4eWHL-xm7r-2" parent="MJZBRQUy2-4eWHL-xm7r-0" style="text;html=1;whiteSpace=wrap;align=center;verticalAlign=middle;rounded=0;fillColor=none;strokeColor=none;fontColor=#FFFFFF;fontSize=21;fontStyle=1" value="Save" vertex="1">
           <mxGeometry height="30" width="79" x="59.5" y="14" as="geometry" />
+        </mxCell>
+        <mxCell id="nbdCxVbo4pmn_tlrQf-c-11" connectable="0" parent="Rm-zZOedulSsf_lplURJ-52" style="group" value="" vertex="1">
+          <mxGeometry height="140" width="349" x="724" y="627" as="geometry" />
+        </mxCell>
+        <mxCell id="nbdCxVbo4pmn_tlrQf-c-2" parent="nbdCxVbo4pmn_tlrQf-c-11" style="text;html=1;whiteSpace=wrap;strokeColor=none;fillColor=none;align=left;verticalAlign=middle;rounded=0;fontSize=18;fontStyle=1" value="&lt;font style=&quot;font-size: 20px;&quot;&gt;Email Notifications&lt;/font&gt;" vertex="1">
+          <mxGeometry height="38" width="305" x="44" as="geometry" />
+        </mxCell>
+        <mxCell id="S1nhkeu4xbbx5CUF959_-1" parent="nbdCxVbo4pmn_tlrQf-c-11" style="html=1;verticalLabelPosition=bottom;align=center;labelBackgroundColor=#ffffff;verticalAlign=top;strokeWidth=4;strokeColor=#505050;shadow=0;dashed=0;shape=mxgraph.ios7.icons.bell;fillColor=light-dark(#FFFFFF,#7E3F03);aspect=fixed;" value="" vertex="1">
+          <mxGeometry height="37" width="34.29" y="1" as="geometry" />
+        </mxCell>
+        <mxCell id="nbdCxVbo4pmn_tlrQf-c-7" connectable="0" parent="nbdCxVbo4pmn_tlrQf-c-11" style="group" value="" vertex="1">
+          <mxGeometry height="45" width="269" x="48" y="52" as="geometry" />
+        </mxCell>
+        <mxCell id="nbdCxVbo4pmn_tlrQf-c-4" parent="nbdCxVbo4pmn_tlrQf-c-7" style="shape=image;html=1;verticalAlign=top;verticalLabelPosition=bottom;labelBackgroundColor=#ffffff;imageAspect=0;aspect=fixed;image=https://icons.diagrams.net/icon-cache1/Ionicons_Fill_Vol_2-2187/toggle-592.svg;imageBackground=none;" value="" vertex="1">
+          <mxGeometry height="45" width="45" as="geometry" />
+        </mxCell>
+        <mxCell id="nbdCxVbo4pmn_tlrQf-c-5" parent="nbdCxVbo4pmn_tlrQf-c-7" style="text;html=1;whiteSpace=wrap;strokeColor=none;fillColor=none;align=left;verticalAlign=middle;rounded=0;fontSize=13;fontStyle=1" value="&lt;font style=&quot;font-weight: normal; font-size: 17px;&quot;&gt;Order Status Updates&lt;/font&gt;" vertex="1">
+          <mxGeometry height="23" width="207" x="62" y="11" as="geometry" />
+        </mxCell>
+        <mxCell id="nbdCxVbo4pmn_tlrQf-c-8" connectable="0" parent="nbdCxVbo4pmn_tlrQf-c-11" style="group" value="" vertex="1">
+          <mxGeometry height="45" width="269" x="49" y="95" as="geometry" />
+        </mxCell>
+        <mxCell id="nbdCxVbo4pmn_tlrQf-c-9" parent="nbdCxVbo4pmn_tlrQf-c-8" style="shape=image;html=1;verticalAlign=top;verticalLabelPosition=bottom;labelBackgroundColor=#ffffff;imageAspect=0;aspect=fixed;image=https://icons.diagrams.net/icon-cache1/Ionicons_Fill_Vol_2-2187/toggle-592.svg;imageBackground=none;" value="" vertex="1">
+          <mxGeometry height="45" width="45" as="geometry" />
+        </mxCell>
+        <mxCell id="nbdCxVbo4pmn_tlrQf-c-10" parent="nbdCxVbo4pmn_tlrQf-c-8" style="text;html=1;whiteSpace=wrap;strokeColor=none;fillColor=none;align=left;verticalAlign=middle;rounded=0;fontSize=13;fontStyle=1" value="&lt;font style=&quot;font-weight: normal; font-size: 17px;&quot;&gt;Weekly Newsletter&lt;/font&gt;" vertex="1">
+          <mxGeometry height="23" width="207" x="62" y="11" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
