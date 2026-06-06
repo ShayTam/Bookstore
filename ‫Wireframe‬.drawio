@@ -1,6 +1,6 @@
 <mxfile host="app.diagrams.net" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/146.0.0.0 Safari/537.36" pages="25">
   <diagram name="Home Page" id="RWkeA1B11Nxr269kYzV0">
-    <mxGraphModel dx="2229" dy="1147" grid="0" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="20" pageHeight="20" math="0" shadow="0">
+    <mxGraphModel dx="1657" dy="835" grid="0" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="20" pageHeight="20" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" style="locked=1;" />
@@ -894,7 +894,7 @@
     </mxGraphModel>
   </diagram>
   <diagram name="Login modal popup" id="4HIx0sRyQHcJTNjeiXw7">
-    <mxGraphModel dx="2229" dy="1147" grid="0" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="20" pageHeight="20" math="0" shadow="0">
+    <mxGraphModel dx="1411" dy="701" grid="0" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="20" pageHeight="20" math="0" shadow="0">
       <root>
         <mxCell id="a5JeWbeX79UalIZV9yfq-0" />
         <mxCell id="a5JeWbeX79UalIZV9yfq-1" parent="a5JeWbeX79UalIZV9yfq-0" style="locked=1;" />
@@ -1681,9 +1681,11 @@
             <mxGeometry height="122" width="358.38" x="643" y="668" as="geometry" />
           </mxCell>
         </UserObject>
-        <mxCell id="tAxRjCdyBVmEcR5otLln-0" parent="RTqQH8OFtv86SIHpKZGF-0" style="shape=rectangle;strokeColor=none;fillColor=none;linkText=;fontSize=17;fontColor=#0000ff;fontStyle=4;html=1;align=center;" value="Forgot Password?" vertex="1">
-          <mxGeometry height="30" width="150" x="743" y="932" as="geometry" />
-        </mxCell>
+        <UserObject label="Forgot Password?" link="data:page/id,ga49d3Sgt3x7G-Ur4-LE" id="tAxRjCdyBVmEcR5otLln-0">
+          <mxCell parent="RTqQH8OFtv86SIHpKZGF-0" style="shape=rectangle;strokeColor=none;fillColor=none;linkText=;fontSize=17;fontColor=#0000ff;fontStyle=4;html=1;align=center;" vertex="1">
+            <mxGeometry height="30" width="150" x="743" y="932" as="geometry" />
+          </mxCell>
+        </UserObject>
         <UserObject label="" link="data:page/id,RWkeA1B11Nxr269kYzV0" id="tAxRjCdyBVmEcR5otLln-2">
           <mxCell connectable="0" parent="RTqQH8OFtv86SIHpKZGF-0" style="group" vertex="1">
             <mxGeometry height="58" width="198" x="720" y="997" as="geometry" />
