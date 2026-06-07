@@ -10775,7 +10775,7 @@
           <mxGeometry height="115.89542483660131" width="252.2930402930403" x="12.761904761904763" as="geometry" />
         </mxCell>
         <mxCell id="ohlNKlVEuytkt0-xCDaF-3" parent="ohlNKlVEuytkt0-xCDaF-1" style="sketch=0;html=1;aspect=fixed;strokeColor=none;shadow=0;align=center;fillColor=light-dark(#000000,#000000);verticalAlign=top;labelPosition=center;verticalLabelPosition=bottom;shape=mxgraph.gcp2.check" value="" vertex="1">
-          <mxGeometry height="21.267772750125694" width="26.584715937657116" x="215.4798534798535" y="8.104575163398694" as="geometry" />
+          <mxGeometry height="21.267772750125694" width="26.584715937657116" x="221.4798534798535" y="14.104575163398694" as="geometry" />
         </mxCell>
         <mxCell id="ohlNKlVEuytkt0-xCDaF-4" parent="Ch4PVg96lT0EypyW-2aV-15" style="text;html=1;whiteSpace=wrap;strokeColor=none;fillColor=none;align=left;verticalAlign=middle;rounded=0;autosize=1;resizable=0;" value="&lt;font style=&quot;color: light-dark(rgb(0, 0, 0), rgb(0, 0, 0)); font-size: 18px;&quot;&gt;&lt;b style=&quot;&quot;&gt;Standard Shipping&lt;/b&gt;&lt;/font&gt;" vertex="1">
           <mxGeometry height="34" width="178" x="330" y="1256" as="geometry" />
